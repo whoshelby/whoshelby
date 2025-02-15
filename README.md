@@ -10,7 +10,7 @@
 ###
 ## 🌐 Socials:
 <div align="left">
-  <a href="https://discord.com/invite/fukrey">
+  <a href="https://discord.com/invite/pvr">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
   </a>
 </div><br>
