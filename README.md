@@ -17,7 +17,7 @@
 - 💥 I’m a Code Alchemist fueled by chaos and creativity.
 - ⚙️ Currently forging Powerfull Tools.
 - 🌶️ Mastering Python.
-- ✉️ Contact: notshelby#00 (Discord).
+- ✉️ Contact: @notshelbyy#00 (Discord).
 - 🔥 Hot take: I code better with spicy ramen.
 
 ---
