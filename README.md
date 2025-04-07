@@ -49,7 +49,7 @@
 
 ### 🩸 Featured Creations
 - **[Flux Nuker](https://github.com/whoshelby/Flux-Nuker)**: Fastest Discord Server Nuker Written in python.  
-  ![Stars](https://img.shields.io/github/stars/notshelby/Flux-Nuker?style=social&color=ff3333)
+  ![Stars](https://img.shields.io/github/stars/whoshelby/Flux-Nuker?style=social&color=ff3333)
 ---
 
 ### 🔥 Departure
