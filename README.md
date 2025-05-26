@@ -10,11 +10,12 @@
   <a href="https://github.com/whoshelby"><img src="https://img.shields.io/badge/GitHub-Follow%20Me!-ff0000?style=flat&logo=github&logoColor=white"></a>
   <a href="https://discord.com/users/452082030180565002"><img src="https://img.shields.io/badge/Discord-Join%20Me!-ff5555?style=flat&logo=discord&logoColor=white"></a>
 </p>
-
+<br>
 <div>
+  <p align="center">
    <a href="https://discord.com/users/452082030180565002">
      <img src="https://lanyard.cnrad.dev/api/452082030180565002?theme=dark&idleMessage=Chilling...!&showDisplayName=false&hideBadges=false&bg=000000">
-   </a>
+   </a></p>
  </div>
  
 ---
